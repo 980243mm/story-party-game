@@ -1,0 +1,13 @@
+{
+  "name": "story-party-game",
+  "version": "1.0.0",
+  "description": "多人聯機故事派對遊戲",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.2"
+  }
+}
